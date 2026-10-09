@@ -1,0 +1,78 @@
+repository,github_fork_flag,upstream_parent,archived,maintenance_evidence,default_branch,head_sha,readme_path,license_detector_spdx,published_releases_in_snapshot,published_release_assets_in_snapshot,local_validation
+Zaryob/CaffeVigil,False,,False,open; maintenance not established by metadata,master,1182d6ce077f1d0eac98f76f72af46737d7a8a20,README.md,MIT,0,0,Source/documentation review only; Windows runtime unverified
+Zaryob/coherent-rtlsdr,True,mlaaks/coherent-rtlsdr,False,fork; maintenance unverified,master,a84831f39f663f575fec153474f576f2b45cef58,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+Zaryob/donut,False,,True,archived historical,main,a47d63e136b4825cf2d17683a802f8773e350daf,README.md,MIT,0,0,Not compiled/tested in this audit
+Zaryob/dotfiles,False,,False,open; maintenance not established by metadata,main,f963274d7268b84744f3308ec52951b3e9f126b0,README.md,WTFPL,0,0,Isolated installer regression tests passed
+Zaryob/gitbook-pdf,True,vs0uz4/gitbook-pdf,False,fork; maintenance unverified,master,1e46ed9394f9ce5724bcaf48b1dd18724b82808d,README.md,Apache-2.0,0,0,Not compiled/tested in this audit
+Zaryob/GPU_SDR,True,nasa/GPU_SDR,False,fork; maintenance unverified,master,3c8c98b9e3eff18836ee556c688cf7ac98e26fa4,README.md,Apache-2.0,0,0,Not compiled/tested in this audit
+Zaryob/gr-doa,True,EttusResearch/gr-doa,False,fork; maintenance unverified,master,35270a59edaa24eabf03d812103d7c0626ea95fe,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+Zaryob/gr-pdw,True,gtri/gr-pdw,False,fork; maintenance unverified,main,b9a6d2cd3117c53554781eac57009da215e49eab,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+Zaryob/iksemel,True,meduketto/iksemel,False,fork; maintenance unverified,main,6a850e55b7e3e386faed5477757d0bab9aa93aaa,README.md,LGPL-2.1,4,4,7/7 plain + ASan/UBSan; 9/9 per TLS backend; transport unverified
+Zaryob/iksemel-rs,False,,False,open; maintenance not established by metadata,master,c1176a5b99f4d503041239f814e1f51a6b521783,README.md,LGPL-2.1,3,0,stable suites + 8 Miri tests passed; 314921 short fuzz executions; benchmarks scoped
+Zaryob/imshark,False,,False,open; maintenance not established by metadata,master,64c36b5eb0e633dfcfc04736a33f21f2a807d0af,README.md,GPL-3.0,0,0,"Debug ASan/UBSan serial: 1267 pass, 28 skip, 0 fail; parallel fixture collisions recorded; release failures remain"
+Zaryob/inary,False,,True,archived historical,main,af6aecffa9a8b22726540636ff1de9c2c5fcd972,README,GPL-3.0,2,0,Not compiled/tested in this audit
+Zaryob/kilavuzlar,False,,False,open; maintenance not established by metadata,main,9fdda25fdbbc5404e9b23a5c0353278628b6e34b,README.md,MIT,0,0,Not compiled/tested in this audit
+Zaryob/LinkLayerModel,False,,False,open; maintenance not established by metadata,master,18fa194280dcc67598ac8080d31e5522b1fa05e3,Readme.md,MIT,0,0,Build + example exit succeeded; output contains 40 NaN entries
+Zaryob/Pena,False,,False,open; maintenance not established by metadata,main,5b4115417b05d8dcc318c6ea2303c0d402aeb9e6,README.md,MIT,0,0,39 definitions / 93 parameterized executions passed; physical audio unverified
+Zaryob/Performer,False,,False,open; maintenance not established by metadata,main,c2e6dbd988129bf6833d440fd8d0d19de0c2f059,README.md,Apache-2.0,0,0,Synthetic bundles valid; viewer 117 pass/1 skip; Linux collector 2 errors/1 skip
+Zaryob/raspipboy,False,,True,archived historical,main,daeca9180aa5e059589b06b0971c69eb9cc95357,README.md,,0,0,Not compiled/tested in this audit
+Zaryob/SDRPlusPlus,True,AlexandreRouma/SDRPlusPlus,False,fork; maintenance unverified,master,357ebb1af6f3e1c842bea940d5fb97a248a15fda,readme.md,GPL-3.0,0,0,Not compiled/tested in this audit
+Zaryob/Sift,False,,False,open; maintenance not established by metadata,main,cb57e3f58b496a50130aaf94cd9b6735f664070c,README.md,MIT,0,0,"Unsigned build; serial XCTest 49 tests, 4 assertion failures in 3 cases; host shutdown interrupted"
+Zaryob/volk,True,gnuradio/volk,False,fork; maintenance unverified,main,b0d935676c9ec29e5794767aa3b294bffccaa1f3,README.md,LGPL-3.0,0,0,Not compiled/tested in this audit
+Zaryob/zaryob,False,,False,open; maintenance not established by metadata,main,fe9a50ffaf1c7be19bd5ac47baade5517c4c804d,README.md,,0,0,Not compiled/tested in this audit
+Zaryob/zaryob.github.io,False,,False,open; maintenance not established by metadata,main,1cd087b94f802db11b332408034d1e22b4ebe1b6,README.md,MIT,1,0,Jekyll build + 92-page local link check passed
+Zaryob/zfs_kitabi,False,,False,open; maintenance not established by metadata,main,d3ba0000433ea2fc2c7a6a973de1d78e509d03ad,README.md,NOASSERTION,1,1,Not compiled/tested in this audit
+9base/.github,False,,False,maintained,main,924f4a757a115654f1fc7148fc12fc4b436fd3bc,profile/README.md,,0,0,Not compiled/tested in this audit
+9base/80sgifgenerator,True,antoineMoPa/80sgifgenerator,True,preserved,master,a9b4c490ee49d69737e6bae6ab0f0d8969a36fe1,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+9base/AndroGarbage,False,,True,educational,main,52fc5cbac1ba31c8c0d05ba2ee63be545541ec90,README.md,GPL-3.0,1,16,Not compiled/tested in this audit
+9base/archtrace,True,gems-uff/archtrace,True,preserved,master,fbad273f4bfd92df6fadd2edf3ba93c0841c3684,README.md,,0,0,Not compiled/tested in this audit
+9base/bismon,True,bstarynk/bismon,True,preserved,master,a0424dcc18ca043019ba6c909779fc876ffe556b,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+9base/build-dependencies,True,open-license-manager/build-dependencies,True,preserved,main,fa192b7cce8a476b9d3b1d5bf8800c5e02c07cfd,README.md,BSD-3-Clause,0,0,Not compiled/tested in this audit
+9base/chm2pdf,True,Arnoques/chm2pdf,True,historical-downstream,master,3b621003422b398c5c0f860887335a0a4a71bff2,README.md,GPL-2.0,1,1,Not compiled/tested in this audit
+9base/ClothSimulation,True,johnBuffer/ClothSimulation,True,preserved,main,0dd7606a40b4db62cf0902722ac1c381ca96f98a,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/ConvartDataGenerate,False,,True,historical,main,245c039434e1569a66627e384f78bcdd0d65d66e,README.md,,0,0,Not compiled/tested in this audit
+9base/ConVarT_pipeline,True,thekaplanlab/ConVarT_pipeline,True,preserved,master,887793df34f6fd324f05366719d9cb7dc5eb14d8,README.md,,0,0,Not compiled/tested in this audit
+9base/ConVarT_Web,True,thekaplanlab/ConVarT_Web,True,historical-downstream,master,c46756a69c2a79f43a2b525572135b61a2d4c02c,README.md,,0,0,Not compiled/tested in this audit
+9base/examples,True,open-license-manager/examples,True,preserved,develop,4e0bfd6d3f9ad25eee8a22f860ac8f971b7bbbd7,README.md,BSD-3-Clause,0,0,Not compiled/tested in this audit
+9base/flowgen,False,,True,historical-downstream,master,ea1a9a02653e5ef4ece6041a4ae97f3d3b1d4bf4,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/FlutterGarbage,False,,True,educational,main,1dc131914ac23503e21119b7ff6fa6f3cf4be7cf,README.md,WTFPL,0,0,Not compiled/tested in this audit
+9base/gdb-dashboard,True,cyrus-and/gdb-dashboard,False,working-copy,master,5f603df806df978a71042f613b963e06eed27a69,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/gitolite,True,sitaramc/gitolite,True,preserved,master,f49ec6b9510d613ce8c31777a78766e328852e06,README.markdown,GPL-2.0,0,0,Not compiled/tested in this audit
+9base/jhalfs,True,automate-lfs/jhalfs,True,preserved,master,e26099d94b11fcec288c7e4e25a0b86bf3c6f76b,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/jira_clone,True,oldboyxx/jira_clone,True,preserved,master,8545e22940b8187a89d4fff3c62c16a1b34881df,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/jsbsim,True,JSBSim-Team/jsbsim,False,working-copy,master_changed,0f6004f5e0f6916863da63b4a458ef66bd935b6e,README.md,LGPL-2.1,0,0,Not compiled/tested in this audit
+9base/kmon,False,,True,preserved,main,a9598f33773b6e668c10fd82d814b63d302380d5,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+9base/lcc-license-generator,True,open-license-manager/lcc-license-generator,True,preserved,develop,ccf08f0d2b50e47e9169962e46824bbfb01eaa1e,README.md,BSD-3-Clause,0,0,Not compiled/tested in this audit
+9base/libomxil-bellagio,False,,True,preserved,master,50749f518649f63ee87d9a271415f320cd8a9036,README.md,LGPL-2.1,0,0,Not compiled/tested in this audit
+9base/librsvg,False,,True,preserved,main,0909cb229cf5e5e386858f163db9283000dc07d4,README.md,GPL-2.0,0,0,Not compiled/tested in this audit
+9base/licensecc,True,open-license-manager/licensecc,True,preserved,develop,5e976c58bc955f2a89da1fd95b9cda1a8d8cef6f,README.md,BSD-3-Clause,0,0,Not compiled/tested in this audit
+9base/linux,True,torvalds/linux,True,preserved,master,373c1465d6760905076e6f1c5af877f6372c6971,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
+9base/lp2gh,True,termie/lp2gh,True,preserved,master,28f52bff53809f1492dfdce0331ef7c651491516,README.md,,0,0,Not compiled/tested in this audit
+9base/moviepad,False,,True,educational,main,d887205bc3fe72a8be969d6e4d387959e7d0941a,README.md,,0,0,Not compiled/tested in this audit
+9base/MS-DOS,True,microsoft/MS-DOS,True,preserved,master,4a7ca9333f49ed119991d1a8099e8f7f3d91afb3,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
+9base/mxu11x0,True,Moxa-Linux/mxu11x0,True,preserved,buster-4.19.0-amd64/master,387eec01fd2d0e02e922ada4ea239a2758211fbf,README.md,,0,0,Not compiled/tested in this audit
+9base/mysqlogin,False,,True,educational,main,966ef26285177a28091a805e94086f9b46647099,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/nvidia_stuff,False,,True,historical,master,1dfa99d87c00c61986515db4a37c357304cd49f1,README.md,,0,0,Not compiled/tested in this audit
+9base/openrocket,True,openrocket/openrocket,True,preserved,unstable,a6f8492f020dd65b46783a9ad4057abb63a561f7,README.md,,0,0,Not compiled/tested in this audit
+9base/PhotoGIMP,True,Diolinux/PhotoGIMP,True,preserved,master,86ffd8359dd48c2aa172b945e3d9b948a311db4f,README.md,,0,0,Not compiled/tested in this audit
+9base/qFlipper,True,flipperdevices/qFlipper,False,maintained-downstream,dev,938b2b06884e16341785ffdc91582ab2c5c1d995,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+9base/Rayban,False,,True,historical,main,aa869fd794a1b7149cb6df84dd0c4d55472e027e,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/re3,True,VideogameSources/gta3-decomp-alt,True,preserved,main,074904fd57c7f9c8eff247baf7709d0c56f9c9cf,README.md,,0,0,Not compiled/tested in this audit
+9base/rolling_cat,False,,True,educational,main,8f1bd3ec69dcb3845bcbb5abe3eac0486d7b0e03,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/SpaceCadetPinball,True,alula/SpaceCadetPinball,True,preserved,master,44e6c249c1450e2b498f408b1b63469a3e67efc7,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2-buildroot,True,TinkerBoard2/buildroot,True,preserved,linux4.19-rk3399-debian10,2448694605dfe7e3a732fc33ff19b1ef6b4969c7,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2-debian,True,TinkerBoard2/debian,True,preserved,linux4.19-rk3399-debian10,d1d1df35de23257d9794318cd48815665886731e,readme.md,Apache-2.0,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2-kernel,True,TinkerBoard2/kernel,True,preserved,linux4.4-rk3399-debian10,2a4bda989a7126ec776c4b12a7365f41ad31da4a,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2-manifest,True,TinkerBoard2/manifest,True,preserved,main,d3f3f32fb0b1598d45eda58ad1e91fe3b7043ce8,README.md,,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2-rkbin,True,TinkerBoard2/rkbin,True,preserved,linux4.19-rk3399-debian10,1b5830248aba9bac009ae109cbc6ce6a4c0a55cb,README.md,,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2-uboot,True,TinkerBoard2/u-boot,True,preserved,linux4.4-rk3399-debian10,fc3f50fd3249cc15c80c18ca4b8c1ace8765786c,README.md,,0,0,Not compiled/tested in this audit
+9base/Tinkerboard2Android-manifest,True,TinkerBoard2-Android/manifest,True,preserved,main,77aa122cd9b237db8457cf71b0e71e43870b7c54,README.md,,0,0,Not compiled/tested in this audit
+9base/TLP,True,linrunner/TLP,True,preserved,master,8004312444d1b9427eb03f792498182d4238e4f0,README.md,GPL-2.0,0,0,Not compiled/tested in this audit
+9base/torshammer,False,,True,historical-downstream,main,41e390dfb480ab897a4b5d2e33a6ac05e46efb86,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
+9base/Veil,True,Veil-Framework/Veil,True,historical-downstream,master,63ad181cb401b6a61dd18289a2bbe35ade1e65aa,README.md,GPL-3.0,0,0,Not compiled/tested in this audit
+9base/vlmcsd,True,Wind4/vlmcsd,True,preserved,master,67bfdd6adeb9fbe3466e82575148891a7b93a7e2,README.md,,0,0,Not compiled/tested in this audit
+9base/VsftpdWeb,True,Tvel/VsftpdWeb,True,preserved,master,389eb26a9c0b20e35eb4569d435b5f29fb544e7d,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
+9base/Web-GUI-for-stockfish-chess,True,antiproton/Web-GUI-for-stockfish-chess,True,preserved,master,54a6aaa48456509d9442b31ea4e1be7b993027ce,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/wubi,False,,True,preserved,main,d11a9d67a1d3519e876afed03597ddfae93f693a,README.md,GPL-2.0,0,0,Not compiled/tested in this audit
+9base/xdgpp,True,WerWolv/xdgpp,True,preserved,master,d54d9601ff8f802ee3d1dd7af7674b83b3d00b5e,README.md,MIT,0,0,Not compiled/tested in this audit
+9base/yocto-poky,True,TinkerBoard2/yocto-poky,True,preserved,linux4.19-rk3399-debian10,0d15100af8a98821d6105d4a27759d120cbd2d28,README.md,NOASSERTION,0,0,Not compiled/tested in this audit
