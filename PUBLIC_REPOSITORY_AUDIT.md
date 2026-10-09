@@ -179,3 +179,5 @@ Twenty issues were opened in their relevant repositories and added to the public
 - [Zaryob/zaryob.github.io: Extend the existing catalogue with current public projects](https://github.com/Zaryob/zaryob.github.io/pull/5) — open for review
 - [Zaryob/Sift: Wire existing tests and App Group inputs with honest failure evidence](https://github.com/Zaryob/Sift/pull/3) — draft; exposed test/host failures remain
 - [Zaryob/imshark: Record current sanitizer results and verified release limitations](https://github.com/Zaryob/imshark/pull/3) — open for review
+- [Zaryob/zaryob: Replace the profile banner with an evidence-based public project map](https://github.com/Zaryob/zaryob/pull/7) — open for review
+- [9base/.github: Add a public evidence index while preserving 9base curation](https://github.com/9base/.github/pull/2) — open for review

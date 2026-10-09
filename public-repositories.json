@@ -870,7 +870,9 @@
         "https://github.com/Zaryob/zaryob/issues/5",
         "https://github.com/Zaryob/zaryob/issues/6"
       ],
-      "pull_requests": []
+      "pull_requests": [
+        "https://github.com/Zaryob/zaryob/pull/7"
+      ]
     },
     {
       "repository": "Zaryob/zaryob.github.io",
@@ -953,7 +955,9 @@
       "backlog": [
         "https://github.com/9base/.github/issues/1"
       ],
-      "pull_requests": []
+      "pull_requests": [
+        "https://github.com/9base/.github/pull/2"
+      ]
     },
     {
       "repository": "9base/80sgifgenerator",
