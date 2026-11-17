@@ -50,10 +50,11 @@ My open-source work runs from Linux package management to network analysis and p
 I write about C and C++, operating systems, networks and the questions around building software on [my blog](https://zaryob.github.io), in Turkish.
 
 - **[Blog Posts](https://zaryob.github.io/blog/)**: articles written by me, with links to the source code and references.
-- **[kilavuzlar: Technical guides](https://github.com/Zaryob/kilavuzlar)**: notes on the tools and systems I work with
+- **[kilavuzlar: Technical guides](https://zaryob.github.io/kilavuzlar/)**: notes on the tools and systems I work with
 - **[syscall: Linux System Call Reference](https://zaryob.github.io/syscall/)**: a reference for Linux system calls, with links to the kernel source and man pages
 - **[execmap: Linux Executable Format Reference](https://zaryob.github.io/execmap/)**: a reference for ELF and other executable formats, with links to the kernel source and man pages
 - **[pin-atlas: Development Board Pin Reference](https://zaryob.github.io/pin-atlas/)**: an interactive reference for development boards and microcontrollers
+- **[wire: Network Protocol Header Reference](https://zaryob.github.io/wire/)**: bit-level header diagrams and field tables for network protocols, sourced from the RFCs
 
 ---
 
